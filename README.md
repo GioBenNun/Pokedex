@@ -66,15 +66,29 @@ http://localhost:4200
 src/
 ├── app/
 │   ├── components/
-│   │   ├── pokemon-list/
+│   │   ├── pokemon-compare/
 │   │   ├── pokemon-detail/
-│   │   └── pokemon-compare/
+│   │   └── pokemon-list/
 │   ├── services/
+│   ├── app-routing.module.ts
+│   ├── app.component.css
+│   ├── app.component.html
+│   ├── app.component.ts
 │   ├── app.config.ts
 │   └── app.routes.ts
-├── assets/
-├── squirtle.gif
-└── index.html
+├── index.html
+├── main.ts
+├── styles.css
+.editorconfig
+.gitignore
+README.md
+angular.json
+package-lock.json
+package.json
+squirtle.gif
+tsconfig.app.json
+tsconfig.json
+tsconfig.spec.json
 ```
 ---
 
