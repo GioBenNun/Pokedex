@@ -81,4 +81,3 @@ src/
 <p align="center">
   Feito com ❤️ por <a href="https://github.com/GioBenNun" target="_blank">Giovanni Benevenute</a>
 </p>
-```
